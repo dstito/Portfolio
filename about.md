@@ -5,16 +5,16 @@ title: About
 More information about me...
 
 ## **Education**
-#### Bandung Institute of Technology | B.Sc (Physics) | Aug 2017 - Apr 2022 | GPA 3.67/4.00 |
+#### **Bandung Institute of Technology | B.Sc (Physics) | Aug 2017 - Apr 2022 | GPA 3.67/4.00**
 - Relevant courses:
   - Calculus, Probability & Statistics, Computational Physics, Mathematical Phyics I & II, and Simulation and Modelling of Physical Systems.
 
-#### Bootcamp Data Science (Non-Degree Program) in Dibimbing.id | Jan 2022 - Oct 2022 | Score 97.03/100.00 | [Certificate](https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/201029DS10100745/931)
+#### **Bootcamp Data Science in Dibimbing.id | (Non-Degree Program) | Jan 2022 - Oct 2022 | Score 97.03/100.00 |** [Certificate](https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/201029DS10100745/931)
 - Relevant skills:
-  - Python, Tableau, SQL, R.
-  - Data Mining.
-  - Data Analytics.
   - Business Acumen.
+  - Python, Tableau, SQL, R.
+  - Data Mining Technique.
+  - Data Analytics.
 
 ## **Virtual Internship Experience / Virtual Job Simulation Experience**
 #### **British Airways Data Science Job Simulation on Forage - October 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Mj5mDmZW8NT7NJKu6_1697807546468_completion_certificate.pdf)
@@ -38,3 +38,9 @@ More information about me...
 #### **Project-Based Virtual Intern : Data Scientist - Home Credit Indonesia x Rakamin Academy - October 2022** | [Certificate](https://drive.google.com/file/d/1MVVKSdJJVao5UvQrVhLpNjMx6jxC5htO/view?usp=sharing)
 - Learned and finisihed various task related with the activity of Data Scientist from Home Credit Indonesia, such as Data Analysis, Machine Learning Implementation, and Business Acumen using tools like Excel, SQL, and Python.
 - Developed Machine Learning model to predict how capable each applicant to repay a loan at Home Credit Indonesia.
+
+## Certification
+#### **Structuring Machine Learning Projects - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YDSF3F8GKM4V)
+#### **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MDUYWE9BT4DF)
+#### **Neural Networks and Deep Learning - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSMJQDJKTDSU)
+#### **Machine Learning - Stanford University** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2ENXCTUQMZDS)
