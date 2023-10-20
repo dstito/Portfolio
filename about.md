@@ -2,7 +2,6 @@
 layout: home
 title: About Me
 ---
-[Back to Home](./)
 
 ---
 
@@ -14,9 +13,10 @@ title: About Me
 #### **Bootcamp Data Science in Dibimbing.id | (Non-Degree Program) | Jan 2022 - Oct 2022 | Score 97.03/100.00 |** [Certificate](https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/201029DS10100745/931)
 - Relevant skills:
   - Business Acumen.
-  - Python, Tableau, SQL, R.
+  - Data Visualization.
   - Data Mining Technique.
   - Data Analytics.
+  - Python, Tableau, SQL, R.
 
 ## **Virtual Internship Experience / Virtual Job Simulation Experience**
 #### **British Airways Data Science Job Simulation on Forage - October 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Mj5mDmZW8NT7NJKu6_1697807546468_completion_certificate.pdf)
@@ -42,6 +42,7 @@ title: About Me
 - Developed Machine Learning model to predict how capable each applicant to repay a loan at Home Credit Indonesia.
 
 ## Certification
+
 | Name | Link |
 | :--- | :--- |
 | **Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12398c35-447e-4cd9-ace0-86755f995642.pdf) |
