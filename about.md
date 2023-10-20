@@ -1,8 +1,9 @@
 ---
-layout: home
-title: About
+layout: default
+title: About Me
+description: More information about me...
 ---
-More information about me...
+[Back to Main](./)
 
 ## **Education**
 #### **Bandung Institute of Technology | B.Sc (Physics) | Aug 2017 - Apr 2022 | GPA 3.67/4.00**
