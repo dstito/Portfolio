@@ -4,19 +4,21 @@ title: About
 ---
 More information about me...
 
-<br />
+<br/>
 
 ## **Education**
 #### Bandung Institute of Technology | B.Sc (Physics) | Aug 2017 - Apr 2022 | GPA 3.67/4.00 |
 - Relevant courses:
   - Calculus, Probability & Statistics, Computational Physics, Mathematical Phyics I & II, and Simulation and Modelling of Physical Systems.
+
 #### Bootcamp Data Science (Non-Degree Program) in Dibimbing.id | Jan 2022 - Oct 2022 | Score 97.03/100.00 | [Certificate](https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/201029DS10100745/931)
 - Relevant skills:
   - Python, Tableau, SQL, R.
   - Data Mining.
   - Data Analytics.
   - Business Acumen.
-<br />
+
+<br/>
 
 ## **Virtual Internship Experience / Virtual Job Simulation Experience**
 #### **British Airways Data Science Job Simulation on Forage - October 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Mj5mDmZW8NT7NJKu6_1697807546468_completion_certificate.pdf)
