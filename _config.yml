@@ -1,6 +1,6 @@
 # Site settings
-title: Portfolio Projects Webstie
-description: Projects related to Data Analytics and Data Sciences
+title: Portfolio Projects Website
+description: My individual projects related to Data Analytics and Data Sciences
 
 # GitHub Pages settings
 remote_theme: jekyll/minima
