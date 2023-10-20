@@ -27,14 +27,14 @@ More information about me...
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
-#### **Project-Based Virtual Intern : Data Scientist - Kalbe Nutritionals x Rakamin Academy** - September 2023| [Certificate](https://drive.google.com/file/d/1HbpccbzT4nOn6SuogLBgOuzNkZvaMmCg/view?usp=sharing)
+#### **Project-Based Virtual Intern : Data Scientist - Kalbe Nutritionals x Rakamin Academy - September 2023** | [Certificate](https://drive.google.com/file/d/1HbpccbzT4nOn6SuogLBgOuzNkZvaMmCg/view?usp=sharing)
 - Learned and finisihed various task related with the activity of Data Scientist in Kalbe Nutritionals, such as Business Understanding, Exploratory Data Analysis, Machine Learning Implementation tools like using SQL, Python, and Tableau.
 - Built Customer Segmentation for effective marketing campaign strategy and Forecasted daily quantity of Kalbe's products
 
-#### **Project-Based Virtual Intern : Big Data Analyst - Kimia Farma x Rakamin Academy** - November 2022| [Certificate](https://drive.google.com/file/d/1slw78wBkCXnnYY9Z1Li8XKdwTQ4NqUbY/view?usp=sharing)
+#### **Project-Based Virtual Intern : Big Data Analyst - Kimia Farma x Rakamin Academy - November 2022** | [Certificate](https://drive.google.com/file/d/1slw78wBkCXnnYY9Z1Li8XKdwTQ4NqUbY/view?usp=sharing)
 - Learned and finished various task related with the activity of Big Data Analyst from Kimia Farma, such as Database Design, Data Visualization, Dashboard, and SQL Query using tools like SQL, Python, and Tableau.
 - Built Sales Performance dashboard using Tableau.
 
-#### **Project-Based Virtual Intern : Data Scientist - Home Credit Indonesia x Rakamin Academy** - October 2022| [Certificate](https://drive.google.com/file/d/1MVVKSdJJVao5UvQrVhLpNjMx6jxC5htO/view?usp=sharing)
+#### **Project-Based Virtual Intern : Data Scientist - Home Credit Indonesia x Rakamin Academy - October 2022** | [Certificate](https://drive.google.com/file/d/1MVVKSdJJVao5UvQrVhLpNjMx6jxC5htO/view?usp=sharing)
 - Learned and finisihed various task related with the activity of Data Scientist from Home Credit Indonesia, such as Data Analysis, Machine Learning Implementation, and Business Acumen using tools like Excel, SQL, and Python.
 - Developed Machine Learning model to predict how capable each applicant to repay a loan at Home Credit Indonesia.
