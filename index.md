@@ -10,7 +10,7 @@ Holla guys! Welcome to my portfolio projects website!😃
 
 My name is Tito Dwi Syahputra, and you can call me Tito. I am a Data Enthusiast, currently looking for a full-time job in Data Science. I have a Bachelor of Science Degree majoring in Physics from Bandung Institute of Technology, Indonesia. I have completed some courses, finished some Virtual Internship Experiences & Virtual Job Simulation Programs, and also completed some projects to sharpen and enhance my knowledges and skills related to Data Science. 
 
-Find Out [About Me](./about.html)!
+Find out more [About Me](./about.html)!
 
 ## **Projects**
 ### **Exploring Customer Experience with British Airways** | [Repository](www.google.com) | [PPT]() 
