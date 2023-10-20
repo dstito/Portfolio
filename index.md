@@ -14,8 +14,7 @@ Find Out [About Me](./about.html)!
 
 ## **Projects**
 ### **Exploring Customer Experience with British Airways** | [Repository](www.google.com) | [PPT]() 
-> *Part of Project in British Airways Data Science Job Simulation on Forage*
-<br>
+- *Part of Project in British Airways Data Science Job Simulation on Forage*
 - **Background**:
    - Customers who book flights with British Airways will experience many interaction points with the brand.
    - Understanding  a customer’s feelings, needs, and feedbacks is crucial for the business, such as maintaining consistently quality standards, and enhancing product and service quality to meet the customer needs and expectations.
@@ -26,8 +25,7 @@ Find Out [About Me](./about.html)!
     - Conducting Topic Modeling to know what topics are mainly discussed on reviews.
 
 ### **Predicting Customers Booking Behavior with British Airways** | [Repository](www.google.com) | [PPT]() 
-> *Part of Project in British Airways Data Science Job Simulation on Forage*
-<br>
+- *Part of Project in British Airways Data Science Job Simulation on Forage*
 - **Background**:
    - Why?
 - **Objectives**:
