@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
+# Site settings
 title: Portfolio Projects
-description: Bookmark this to keep an eye on my project updates!
+author:
+  name: Tito Dwi Syahputra
+  email: your-email@domain.com
+description: "Data Science Projects"
+
+# Build settings
+remote_theme: jekyll/minima
