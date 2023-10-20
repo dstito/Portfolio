@@ -2,4 +2,8 @@
 title: About
 ---
 
-# Education
+## Education
+- asda
+- asdasd
+## Experiences
+- asdasd
