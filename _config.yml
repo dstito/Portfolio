@@ -3,8 +3,4 @@ theme: jekyll-theme-minimal
 title: Portfolio Projects
 author:
   name: Tito Dwi Syahputra
-  email: your-email@domain.com
-description: "Data Science Projects"
-
-# Build settings
-remote_theme: jekyll/minima
+  email: titodwi20@gmail.com
