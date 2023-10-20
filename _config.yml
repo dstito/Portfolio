@@ -2,9 +2,5 @@
 title: Portfolio Projects
 description: Projects related to Data Analytics and Data Science
 
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-minimal # Specify a Jekyll theme
-
 # GitHub Pages settings
-remote_theme: jekyll/minimal # Set the theme from a remote repository
+remote_theme: jekyll/minimal
