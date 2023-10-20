@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# About Me
+# Intro
 Hello guys! Welcome to my simple website! 😃
 
 My name is Tito dwi Syahputra, you can call me Tito. I am a Data Enthusiast, currently looking for a job in this field. I have a Bachelor of Science Degree majoring in Physics from Institut Teknologi Bandung, Indonesia. I have completed some courses, finished some Virtual Internship Experiences & Virtual Job Simulation Program, and also completed some projects to sharpen and enhance my knowledges and skills related to Data Science.
