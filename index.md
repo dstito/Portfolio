@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Home
+layout: home
 ---
+
 # About Me
 Hello guys! Welcome to my website! :smiley:
 My name is Tito dwi Syahputra, you can call me Tito. I am a Data Enthusiast, currently looking for job in this field. I have a Bachelor of Science Degree from ITB. 
