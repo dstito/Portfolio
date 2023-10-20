@@ -1,7 +1,8 @@
 ---
+layout: home
 title: About
-layout: page
 ---
+
 More information about me...
 
 ## Education
