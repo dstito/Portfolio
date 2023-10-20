@@ -2,11 +2,6 @@
 layout: home
 title: Main
 ---
-<style>
-.my-custom-class {
-  font-size: 8px;
-}
-</style>
 
 Hello guys! Welcome to my very simple website!😃
 
@@ -17,7 +12,7 @@ My name is Tito dwi Syahputra, you can call me Tito. I am a Data Enthusiast, cur
 
 | Project Name | Description | PPT/Model Deployment |
 | :---: | :----: | :----: |
-| <span class="my-custom-class">Exploring Customer Experience with British Aiwrays.</span> | desc | link |
+| <span style="font-size: 12px;">Exploring Customer Experience with British Aiwrays.</span> | <span style="font-size: 12px;">Desc</span> | <span style="font-size: 12px;">Link</span> |
 
 ## Contact
 Feel free to get in touch with me:
