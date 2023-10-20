@@ -2,13 +2,6 @@ title: Portfolio Projects Website
 author:
   name: Tito Dwi Syahputra
   email: titodwi20@gmail.com
-description: >
-  My individual projects related to Data Analytics and Data Sciences
+description: My individual projects related to Data Analytics and Data Sciences
 
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-header_pages:
-  - about.md
-show_excerpts: true
+remote_theme: jekyll/minima
