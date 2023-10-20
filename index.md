@@ -12,10 +12,10 @@ My name is Tito dwi Syahputra, you can call me Tito. I am a Data Enthusiast, cur
 
 | Project Name | Description | PPT/Model Deployment |
 | :---: | :----: | :----: |
-| Exploring Customer Experience with British Aiwrays | Objectives:
-  - Collecting customer feedback and reviewing data from a third-party source.
-  - Analyzing the data to present any insights we may uncover.
-  - Conducting Topic Modeling to know what topics are mainly discussed. | <span style="font-size: 12px;">Link</span> |
+| Exploring Customer Experience with British Aiwrays | Objectives: - Collecting customer feedback and reviewing data from a third-party source.
+- Analyzing the data to present any insights we may uncover.
+- Conducting Topic Modeling to know what topics are mainly discussed. | <span style="font-size: 12px;">Link</span> |
+    
 
 ## Contact
 Feel free to get in touch with me:
