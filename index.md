@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Main
 ---
-
-# Main
 Hello guys! Welcome to my very simple website!😃
 
 ## Intro
