@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: dark
 title: About Me
 ---
 [Back to Home](./)
@@ -17,8 +17,6 @@ title: About Me
   - Python, Tableau, SQL, R.
   - Data Mining Technique.
   - Data Analytics.
-
----
 
 ## **Virtual Internship Experience / Virtual Job Simulation Experience**
 #### **British Airways Data Science Job Simulation on Forage - October 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Mj5mDmZW8NT7NJKu6_1697807546468_completion_certificate.pdf)
@@ -42,8 +40,6 @@ title: About Me
 #### **Project-Based Virtual Intern : Data Scientist - Home Credit Indonesia x Rakamin Academy - October 2022** | [Certificate](https://drive.google.com/file/d/1MVVKSdJJVao5UvQrVhLpNjMx6jxC5htO/view?usp=sharing)
 - Learned and finisihed various task related with the activity of Data Scientist from Home Credit Indonesia, such as Data Analysis, Machine Learning Implementation, and Business Acumen using tools like Excel, SQL, and Python.
 - Developed Machine Learning model to predict how capable each applicant to repay a loan at Home Credit Indonesia.
-
----
 
 ## Certification
 - **Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12398c35-447e-4cd9-ace0-86755f995642.pdf)
