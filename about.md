@@ -4,11 +4,11 @@ title: About
 ---
 
 More information about me...
-## Education
+## **Education**
 #### Bandung Institute of Technology | Aug 2017 - Apr 2022 | GPA 3.67/4.00 |
 #### Bootcamp Data Science (Non-Degree Program) | Jan 2022 - Oct 2022 | Score 97.03/100.00 | [Certificate](https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/201029DS10100745/931)
 
-## Project Experience / Virtual Internship Experience / Virtual Job Simulation Experience
+## **Project Experience / Virtual Internship Experience / Virtual Job Simulation Experience**
 #### **British Airways Data Science Job Simulation on Forage - October 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Mj5mDmZW8NT7NJKu6_1697807546468_completion_certificate.pdf)
 - Completed a simulation focussing on how data science is a critical component of British Airways success.
 - Scraped and analysed customer review data to uncover findings.
