@@ -1,5 +1,5 @@
 ---
-layout: dark
+layout: home
 title: About Me
 ---
 [Back to Home](./)
