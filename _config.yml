@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+
 
 title: Portfolio Projects
+remote_theme: jekyll/minima
