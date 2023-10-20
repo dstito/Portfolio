@@ -1,2 +1,29 @@
-theme: jekyll-theme
-title: Portfolio Projects
+# Site settings
+title: My GitHub Pages Site
+description: A beautiful GitHub Pages site created with Jekyll
+baseurl: "" # Use if your site is hosted in a subdirectory
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal # Specify a Jekyll theme
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Permalinks
+permalink: pretty
+
+# Exclude files and directories
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - _site
+  - .sass-cache
+  - .jekyll-cache
+  - .git
+
+# GitHub Pages settings
+remote_theme: jekyll/minimal # Set the theme from a remote repository
