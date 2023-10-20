@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Main
+layout: default
 ---
 
 Holla guys! Welcome to my projects portfolio website!😃
