@@ -10,7 +10,7 @@ My name is Tito dwi Syahputra, you can call me Tito. I am a Data Enthusiast, cur
 
 ## **Projects**
 
-**1. Exploring Customer Experience with British Airways** - Project in "British Airways Data Science Job Simulation on Forage". [[Repository](www.google.com) and [PPT]()]
+**1. Exploring Customer Experience with British Airways** | [Repository](www.google.com) and [PPT]() 
    - **Background**:
        - Customers who book flights with British Airways will experience many interaction points with the brand.
        - Understanding  a customer’s feelings, needs, and feedbacks is crucial for the business, such as maintaining consistently quality standards, and enhancing product and service quality to meet the customer needs and expectations.
@@ -20,7 +20,7 @@ My name is Tito dwi Syahputra, you can call me Tito. I am a Data Enthusiast, cur
        - Analyzing the data to present any insights we may uncover.
        - Conducting Topic Modeling to know what topics are mainly discussed on reviews.
 
-**2. Predicting Customers Booking Behavior with British Airways** - Project in "British Airways Data Science Job Simulation on Forage". [[Repository](www.google.com) and [PPT]()]
+**2. Predicting Customers Booking Behavior with British Airways** | [Repository](www.google.com) and [PPT]()
    - **Background**:
         - Why?
    - **Objectives**:
