@@ -31,8 +31,3 @@ Find out more [About Me](./about.html)!
 - **Objectives**:
    - Predicting Customers
    - Goals
-
-## Contact
-Feel free to get in touch with me:
-- titodwi20@gmail.com
-- [Linkedin](https://www.linkedin.com/in/tito-dwi-syahputra/)
