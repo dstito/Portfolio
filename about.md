@@ -42,9 +42,11 @@ title: About Me
 - Developed Machine Learning model to predict how capable each applicant to repay a loan at Home Credit Indonesia.
 
 ## Certification
-- **Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12398c35-447e-4cd9-ace0-86755f995642.pdf)
-- **Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-af5c633a-a93c-4e1e-9c51-ffaaad4e5ce5.pdf)
-- **Structuring Machine Learning Projects - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YDSF3F8GKM4V)
-- **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MDUYWE9BT4DF)
-- **Neural Networks and Deep Learning - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSMJQDJKTDSU)
-- **Machine Learning - Stanford University** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2ENXCTUQMZDS)
+| Name | Link |
+| :--- | :--- |
+| **Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12398c35-447e-4cd9-ace0-86755f995642.pdf) |
+| **Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-af5c633a-a93c-4e1e-9c51-ffaaad4e5ce5.pdf) |
+| **Structuring Machine Learning Projects - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YDSF3F8GKM4V) |
+| **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/MDUYWE9BT4DF) |
+| **Neural Networks and Deep Learning - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSMJQDJKTDSU) |
+| **Machine Learning - Stanford University Online** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/2ENXCTUQMZDS) |
