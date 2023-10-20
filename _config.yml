@@ -3,4 +3,4 @@ title: Portfolio Projects
 description: Projects related to Data Analytics and Data Science
 
 # GitHub Pages settings
-remote_theme: jekyll/minimal
+remote_theme: jekyll/minima
