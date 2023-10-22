@@ -8,5 +8,5 @@ minima:
   social_links:
     - { platform: github,         user_url: 'https://github.com/dstito' }
     - { platform: linkedin,       user_url: 'https://www.linkedin.com/in/tito-dwi-syahputra' }
-
+google_analytics: G-272GE5PKCW
 remote_theme: jekyll/minima
