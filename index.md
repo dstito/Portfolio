@@ -28,4 +28,4 @@ Find out more [About Me](./about.html)!
    - British Airways has a problem where there is only 15% of customers completing their bookings, which lead to inefficient use of resources.
    - They need to predict whether the customers will complete their bookings or not, so that they can perform efficient resource allocation, and make more profit.
 - **Objectives**:
-   - Building a machine learning model to predict customer booking behaviour.
+   - Building a robust predictive model to predict customer booking behaviour.
