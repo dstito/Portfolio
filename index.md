@@ -28,4 +28,13 @@ Find out more [About Me](./about.html)!
    - British Airways has a problem where there is only 15% of customers completing their bookings, which lead to inefficient use of resources.
    - They need to predict whether the customers will complete their bookings or not, so that they can perform efficient resource allocation, and make more profit.
 - **Objectives**:
+   - Extracting meaningful insights within the data.
    - Building a robust predictive model to predict customer booking behaviour.
+
+### **Analyzing Social Buzz Content Categories** | [Repository](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories) | [PPT](https://docs.google.com/presentation/d/1qyHyHXD0q6rYz_h4ZFQjN0dgRkyn1D8_bodHKTUV7qI/edit) | [Dashboard](https://public.tableau.com/views/SocialBuzzDashboard_16980741281140/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
+- **Background**:
+   -  "Social Buzz", a fictional fast-growing social platform company, needs our help to adapt quickly and effectively to its global scale, specifically they need an advice on their content creation strategy for the top 5 most popular content categories.
+
+- **Objectives**:
+   - Providing an analysis of Social Buzz content categories that highlights the top 5 categories with the largest aggregate popularity.
+   - Making a Social Buzz dashboard to assist the client performing their own analysis.
