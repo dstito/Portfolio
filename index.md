@@ -38,7 +38,7 @@ Find out more [About Me](./about.html)!
    - Providing an analysis of Social Buzz content categories that highlights the top 5 categories with the largest aggregate popularity.
    - Making a Social Buzz dashboard to assist the client performing their own analysis.
 
-### Customer Segmentation and Forecasting Sales Quantity (in Retail Store) | [Repository](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/tree/main) | [PDF](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/blob/main/Presentation%20Final%20Project.pdf) | [Dashboard](https://public.tableau.com/app/profile/tito5892/viz/shared/CG5HZHQRK)
+### **Customer Segmentation and Forecasting Sales Quantity (in Kalbe Nutritionals)** | [Repository](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/tree/main) | [PDF](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/blob/main/Presentation%20Final%20Project.pdf) | [Dashboard](https://public.tableau.com/app/profile/tito5892/viz/shared/CG5HZHQRK)
 - **Background**:
    - Kalbe's marketing team needs our help to create customer segments based on several criteria so that they can be better on targetting valuable customers.
    - Kalbe's inventory team needs our help to predict the number of sales (quantity) from the total products.
