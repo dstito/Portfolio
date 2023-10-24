@@ -34,7 +34,14 @@ Find out more [About Me](./about.html)!
 ### **Analyzing Social Buzz Content Categories** | [Repository](https://github.com/dstito/Analyzing-Social-Buzz-Content-Categories) | [PPT](https://docs.google.com/presentation/d/1qyHyHXD0q6rYz_h4ZFQjN0dgRkyn1D8_bodHKTUV7qI/edit) | [Dashboard](https://public.tableau.com/views/SocialBuzzDashboard_16980741281140/Dashboard1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link)
 - **Background**:
    -  "Social Buzz", a fictional fast-growing social platform company, needs our help to adapt quickly and effectively to its global scale, specifically they need an advice on their content creation strategy for the top 5 most popular content categories.
-
 - **Objectives**:
    - Providing an analysis of Social Buzz content categories that highlights the top 5 categories with the largest aggregate popularity.
    - Making a Social Buzz dashboard to assist the client performing their own analysis.
+
+### Customer Segmentation and Forecasting Sales Quantity (in Retail Store) | [Repository](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/tree/main) | [PDF](https://github.com/dstito/Customer-Segmentation-and-Forecasting-Sales-Quantity/blob/main/Presentation%20Final%20Project.pdf) | [Dashboard](https://public.tableau.com/app/profile/tito5892/viz/shared/CG5HZHQRK)
+- **Background**:
+   - Kalbe's marketing team needs our help to create customer segments based on several criteria so that they can be better on targetting valuable customers.
+   - Kalbe's inventory team needs our help to predict the number of sales (quantity) from the total products.
+- **Objectives**:
+   - Segmenting customers based on behavioral and demographic data using K-Means clustering.
+   - Forecasting daily sales quantity in 2022 using ARIMA model.
