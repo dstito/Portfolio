@@ -45,6 +45,10 @@ title: About Me
 
 | Name | Link |
 | :--- | :--- |
+| **Data Analyst - Datacamp** | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/252aff418ceed22d9f69998404f9840b80d88cdc) |
+| **Spreadsheet Fundamentals - Datacamp** | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/997f33a2a7648b41fc14a7e59d811016a889e97a) |
+| **SQL Fundamentals - Datacamp** | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/64de7c5cbeb94be97e758252d27216d2c2389578?raw=1) |
+| **Tableau Fundamentals - Datacamp** | [Certificate](https://www.datacamp.com/statement-of-accomplishment/track/ecc1163ec0ccbdb543ab57dbeb660e3738fc49ae?raw=1) |
 | **Deep Learning A-Z™: Hands-On Artificial Neural Networks - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-12398c35-447e-4cd9-ace0-86755f995642.pdf) |
 | **Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy** | [Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-af5c633a-a93c-4e1e-9c51-ffaaad4e5ce5.pdf) |
 | **Structuring Machine Learning Projects - DeepLearning.AI** | [Certificate](https://www.coursera.org/account/accomplishments/certificate/YDSF3F8GKM4V) |
