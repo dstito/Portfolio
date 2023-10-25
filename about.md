@@ -41,7 +41,7 @@ title: About Me
 - Learned and finisihed various task related with the activity of Data Scientist from Home Credit Indonesia, such as Data Analysis, Machine Learning Implementation, and Business Acumen using tools like Excel, SQL, and Python.
 - Developed Machine Learning model to predict how capable each applicant to repay a loan at Home Credit Indonesia.
 
-## **Certification((
+## **Certification**
 
 | Name | Link |
 | :--- | :--- |
