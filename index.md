@@ -45,3 +45,12 @@ Find out more [About Me](./about.html)!
 - **Objectives**:
    - Segmenting customers based on behavioral and demographic data using K-Means clustering.
    - Forecasting daily sales quantity in 2022 using ARIMA model.
+
+### **Estimating Boarding House Monthly Rent Price** | [Repository](https://github.com/dstito/Estimating-Boarding-House-Monthly-Rent-Price) | [Web App](https://monthlyrentpriceestimator.streamlit.app/)
+- **Background**:
+   - Most of boarding house marketplace website doesn't provide us how we can estimate the rent price given the desired features, location, or facilities that we want.
+   - Building an app to estimate the monthly rent price will help the new owner of boarding house to ensure that the rent price won't be overestimate or underestimate, and fit the average market price.
+- **Objectives**:
+   - Scraping and collecting data from a marketplace website of boarding house in Indonesia.
+   - Developing a machine learning regression model that can be used to estimate monthly rent price of boarding house, specifically in Jakarta, Tangerang, Bandung, and Depok.
+   - Uncovering insights about which factors mostly determine the monthly rent price of a boarding house in Jakarta, Tangerang, Bandung, and Depok.
