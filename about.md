@@ -19,6 +19,12 @@ title: About Me
   - Python, Tableau, SQL, R.
 
 ## **Virtual Internship Experience / Virtual Job Simulation Experience**
+#### **KPMG AU Data Analytics Job Simulation on Forage - November 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_Mj5mDmZW8NT7NJKu6_1699044838890_completion_certificate.pdf)
+- Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team.
+- Assessed data quality and completeness in preparation for analysis.
+- Analysed data to target high-value customers based on demographics and attributes.
+- Developed dashboards to communicate findings with visuals.
+  
 #### **British Airways Data Science Job Simulation on Forage - October 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/British%20Airways/NjynCWzGSaWXQCxSX_British%20Airways_Mj5mDmZW8NT7NJKu6_1697807546468_completion_certificate.pdf)
 - Completed a simulation focussing on how data science is a critical component of British Airways success.
 - Scraped and analysed customer review data to uncover findings.
