@@ -13,6 +13,15 @@ My name is Tito Dwi Syahputra, and you can call me Tito. I am a Data Enthusiast,
 Find out more [About Me](./about.html)!
 
 ## **Projects**
+### **Analyzing Sprocket Central Potential Customers** | [Dashboard](https://public.tableau.com/app/profile/tito5892/viz/SprocketCentralPtyLtdDashboard_16990267181470/Overview)
+- **Background**:
+   - Sprocket Central Pty Ltd, a medium size bikes & cycling accessories organization - KPMG's client, needs help with its customer and transactions data, specifically they need recommendations about how to find the best value customers from a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history.
+- **Objectives**:
+   - Carrying out an assessment of data quality and completeness before exploring the data.
+   - Exploring the data to get valuable insights.
+   - Developing a model for targeting high value customers based on demographics using RFM Analysis on transaction data.
+
+
 ### **Exploring Customer Experience with British Airways** | [Repository](https://github.com/dstito/Exploring-Customer-Experience-and-Predicting-Customer-Booking-Behaviour/tree/main) | [PPT](https://docs.google.com/presentation/d/1-EPG0HIlWdc2jh0q8QjfmvrSY9bJp1u0xmGM26Phvj0/edit?usp=sharing) 
 - **Background**:
    - Customers who book flights with British Airways will experience many interaction points with the brand.
