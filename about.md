@@ -8,15 +8,24 @@ title: About Me
 ## **Education**
 #### **Bandung Institute of Technology | B.Sc (Physics) | Aug 2017 - Apr 2022 | GPA 3.67/4.00**
 - Relevant courses:
-  - Calculus, Probability & Statistics, Computational Physics, Mathematical Phyics I & II, and Simulation and Modelling of Physical Systems.
+  - Calculus I & II.
+  - Probability & Statistics.
+  - Computational Physics.
+  - Mathematical Phyics I & II.
 
 #### **Bootcamp Data Science in Dibimbing.id | (Non-Degree Program) | Jan 2022 - Oct 2022 | Score 97.03/100.00 |** [Certificate](https://dibimbing-lms-dev.s3.ap-southeast-1.amazonaws.com/201029DS10100745/931)
 - Relevant skills:
-  - Business Acumen.
-  - Data Visualization.
-  - Data Mining Technique.
-  - Data Analytics.
-  - Python, Tableau, SQL, R.
+  - Business Understanding.
+  - Data Collection.
+  - Data Preparation (Cleaning, Wrangling, and Preprocessing).
+  - Exploratory Data Analysis & Data Visualization.
+  - Statistical Modeling.
+  - Machine Learning.
+- Relevant tools:
+  - Python.
+  - R.
+  - SQL.
+  - Tableau.
 
 ## **Virtual Internship Experience / Virtual Job Simulation Experience**
 #### **KPMG AU Data Analytics Job Simulation on Forage - November 2023** | [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_Mj5mDmZW8NT7NJKu6_1699044838890_completion_certificate.pdf)
